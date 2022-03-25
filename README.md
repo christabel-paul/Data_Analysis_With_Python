@@ -27,7 +27,6 @@ runtime: runtime in minutes
   5. Regression plot of Gross Revenue vs film budget
   6. Generate correlations table for numeric features
   7. Generate heatmap based on correlations table
-  8. 
 
 
 ## See [Python Script](https://github.com/christabel-paul/Data_Analysis_With_Python/blob/main/Movies.ipynb) for output figures.
