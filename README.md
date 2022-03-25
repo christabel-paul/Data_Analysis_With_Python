@@ -23,7 +23,7 @@ runtime: runtime in minutes
   1. Fill in null values
   2. FIX THIS Issue in dataset: the existing **country** and **year** attributes do not consistenly match the year and Country of the **released** attribute. Since the released attribute contains the correct values, extract the country and year from the released column and populate a new country and year field. 
   3. Boxplot of Gross Revenue to identify outlierss
-  4. Scatterplot of Gross Revenue vs Budget **fix on graph **
+  4. Scatterplot of Gross Revenue vs Budget 
   5. Regression plot of Gross Revenue vs film budget
   6. Generate correlations table for numeric features
   7. Generate heatmap based on correlations table
